@@ -1,9 +1,14 @@
 ltspice-lm2596-buck-converter
 =============================
 ![](./circuit.jpg)
-[LM2596 data sheet, product information and support | TI.com](https://www.ti.com/product/LM2596)
-[matthiasdittmer/diy_bench_power_supply_lm2596: A DIY two channel bench power supply based on Texas Instruments LM2596](https://github.com/matthiasdittmer/diy_bench_power_supply_lm2596)
-- [diy_power_supply_lm2596 - EasyEDA open source hardware lab](https://oshwlab.com/matthiasdittmer/diy_power_supply_lm2596)
+### Docs
+- [LM2596 data sheet, product information and support | TI.com](https://www.ti.com/product/LM2596)
+- [LM-2596 DC-DC 降壓模組 ( 帶數字顯示 )](https://github.com/dirkarnez/ltspice-lm2596-buck-converter/blob/main/docs/2430000010453.pdf)
+  - From https://jin-hua.com.tw/upload/product/2430000010453.pdf
+ 
+### Tutorials
+- [matthiasdittmer/diy_bench_power_supply_lm2596: A DIY two channel bench power supply based on Texas Instruments LM2596](https://github.com/matthiasdittmer/diy_bench_power_supply_lm2596)
+  - [diy_power_supply_lm2596 - EasyEDA open source hardware lab](https://oshwlab.com/matthiasdittmer/diy_power_supply_lm2596)
 
 ### Poe
 ```
